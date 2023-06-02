@@ -7,7 +7,7 @@ function App() {
 
     <div className="container">
 
-      <h1>Teste</h1>
+      <h1>Teste React</h1>
       
 
     </div>
