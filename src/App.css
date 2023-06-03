@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+
+    background: radial-gradient(farthest-corner at right top,#247881,#43919B,#30AADD,#00FFC6);
+}
+.titulo {
+    animation: flipTitulo 2s ;
+    padding: 50px;
+    
+}
+.qrcode {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
+.input {
+    height: 38px;
+    border-radius: 8px;
+    max-width: 300px;
+    width: 100%;
+    margin: 24px 0;
+    padding: 8px;
+    outline: none;
+    border: 1px solid #b6b6b6;
+}
+.bntBaixar {
+    border-radius: 8px;
+    background: radial-gradient(farthest-corner at right top,#30AADD,#00FFC6);
+    border: none;
+}
+
+.link {
+    display: inline-block;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: x-large;
+    color: #000000;
+    cursor: pointer;
+}
+@keyframes flipTitulo {
+    from{
+        transform: rotateX(90deg);
+    }
+    to{
+        transform: rotateX(0deg);
+    }
+    
+}
