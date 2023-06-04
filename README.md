@@ -1,12 +1,17 @@
 # Gerador de QrCode
 
-<p> O projeto utiliza a linguagem JavaScript .</p>
+<p>
+    O projeto representa um gerador de código QR usando React.
+  o código implementa um gerador de código QR que permite ao usuário digitar
+  um link e, em seguida, gera um código QR correspondente, que pode ser 
+  visualizado na página e baixado como um arquivo de imagem.
+</p>
 
 |   🪓   |  Comunidade CoDe ❮●/❯e  |
 | -------------  | --- |
 | :sparkles: Nome        | **Gerador de QrCode**
 | :label: Tecnologias | <div style="display: inline_block"><br><img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img  align="center" alt="Logo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></div>
-| :rocket: URL         | 
+| :rocket: URL         | https://qrcode-neon.vercel.app
 | :fire: Desafio     | Projeto - Gerador de QrCode
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
